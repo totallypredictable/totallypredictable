@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, this is root. 👋
+- I currently work as a ML/DL instructor at a private institution.
+- Keen on working on open source projects.
+- Full time linux lover.
+
 
 <!--
 **totallypredictable/totallypredictable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

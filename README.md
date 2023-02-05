@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 
 ## Contact me:
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://gist.githubusercontent.com/totallypredictable/3c3522d0ff6f7ae2a94ac182acc387b7/raw/5cccf8706277db204e7650110fd09403095361b7/key.pub)
+[![pgp](https://img.shields.io/badge/pgp-0x832E5CC3E97568D0-313131?style=flat&labelColor=313131&color=313131)](https://gist.githubusercontent.com/totallypredictable/3c3522d0ff6f7ae2a94ac182acc387b7/raw/5cccf8706277db204e7650110fd09403095361b7/key.pub)

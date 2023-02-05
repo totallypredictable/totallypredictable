@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)

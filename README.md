@@ -1,6 +1,6 @@
 ### Hi there, this is root. 👋
 - I currently work as a ML/DL instructor at a private company.
-- Keen on working on open source projects.
+- Keen on contributing to open source projects.
 - Full time linux lover.
 
 

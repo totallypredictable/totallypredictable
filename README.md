@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 ## Contact me:
-[![pgp](https://img.shields.io/badge/pgp-0x832E5CC3E97568D0-313131?style=flat&labelColor=313131&color=313131)](https://gist.githubusercontent.com/totallypredictable/3c3522d0ff6f7ae2a94ac182acc387b7/raw/5cccf8706277db204e7650110fd09403095361b7/key.pub)
+[![pgp](https://img.shields.io/badge/pgp-0x832E5CC3E97568D0-313131?style=flat&labelColor=313131&color=313131)](https://keys.openpgp.org/vks/v1/by-fingerprint/21E1377536AAD0CEBBCE907A832E5CC3E97568D0)
 
 [E-mail me](mailto:root@systemalert.org?subject=[GitHub]%20Source%20Han%20Sans)
